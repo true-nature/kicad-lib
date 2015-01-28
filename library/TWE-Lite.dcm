@@ -1,3 +1,13 @@
-EESchema-DOCLIB  Version 2.0  Date: 2015/01/24 23:14:52
+EESchema-DOCLIB  Version 2.0  Date: 2015/01/28 16:39:41
+#
+$CMP CONN_4
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP LED
+D Symbole general de connecteur
+K CONN
+$ENDCMP
 #
 #End Doc Library

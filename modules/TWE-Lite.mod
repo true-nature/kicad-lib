@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  2015/01/27 23:54:37
+PCBNEW-LibModule-V1  2015/01/28 17:02:33
 # encoding utf-8
 Units mm
 $INDEX
@@ -393,12 +393,6 @@ Po 35 -25
 $EndPAD
 $SHAPE3D
 Na "SGM-135-Lower.wrl"
-Sc 0.393701 0.393701 0.393701
-Of 0 0 0
-Ro 0 0 0
-$EndSHAPE3D
-$SHAPE3D
-Na "SGM-135-Upper.wrl"
 Sc 0.393701 0.393701 0.393701
 Of 0 0 0
 Ro 0 0 0
