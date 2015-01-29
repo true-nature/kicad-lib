@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  2015/01/29 11:46:31
+PCBNEW-LibModule-V1  2015/01/29 14:15:48
 # encoding utf-8
 Units mm
 $INDEX
@@ -399,7 +399,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE PB-SGM-135
 $MODULE PBCS-75
-Po 0 0 0 15 54BF9974 00000000 ~~
+Po 0 0 0 15 54C9C1FE 00000000 ~~
 Li PBCS-75
 Sc 0
 AR 
@@ -478,6 +478,7 @@ Dr 1.7 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po 12.45 28
+.LocalClearance 1
 $EndPAD
 $PAD
 Sh "" C 1.7 1.7 0 0 0
@@ -485,6 +486,7 @@ Dr 1.7 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po -12.45 28
+.LocalClearance 1
 $EndPAD
 $PAD
 Sh "" C 1.7 1.7 0 0 0
@@ -492,6 +494,7 @@ Dr 1.7 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po 12.45 0
+.LocalClearance 1
 $EndPAD
 $PAD
 Sh "" C 1.7 1.7 0 0 0
@@ -499,6 +502,7 @@ Dr 1.7 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po -12.45 0
+.LocalClearance 1
 $EndPAD
 $PAD
 Sh "" C 1.7 1.7 0 0 0
@@ -506,6 +510,7 @@ Dr 1.7 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po -12.45 -28
+.LocalClearance 1
 $EndPAD
 $PAD
 Sh "" C 1.7 1.7 0 0 0
@@ -513,6 +518,7 @@ Dr 1.7 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po 12.45 -28
+.LocalClearance 1
 $EndPAD
 $SHAPE3D
 Na "CSPB-75.wrl"
