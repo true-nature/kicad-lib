@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  2015/01/28 17:02:33
+PCBNEW-LibModule-V1  2015/01/29 11:46:31
 # encoding utf-8
 Units mm
 $INDEX
@@ -528,7 +528,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE PBCS-75
 $MODULE PBPS-85
-Po 0 0 0 15 54BB37F0 00000000 ~~
+Po 0 0 0 15 54C99F02 00000000 ~~
 Li PBPS-85
 Sc 0
 AR 
@@ -579,6 +579,7 @@ Dr 2 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po 0 -16.5
+.LocalClearance 1
 $EndPAD
 $PAD
 Sh "" C 2 2 0 0 0
@@ -586,6 +587,7 @@ Dr 2 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po 0 16.5
+.LocalClearance 1
 $EndPAD
 $PAD
 Sh "" C 2 2 0 0 0
@@ -593,6 +595,7 @@ Dr 2 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po -25.4 -16.5
+.LocalClearance 1
 $EndPAD
 $PAD
 Sh "" C 2 2 0 0 0
@@ -600,6 +603,7 @@ Dr 2 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po -25.4 16.5
+.LocalClearance 1
 $EndPAD
 $PAD
 Sh "" C 2 2 0 0 0
@@ -607,6 +611,7 @@ Dr 2 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po 25.4 -16.5
+.LocalClearance 1
 $EndPAD
 $PAD
 Sh "" C 2 2 0 0 0
@@ -614,6 +619,7 @@ Dr 2 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po 25.4 16.5
+.LocalClearance 1
 $EndPAD
 $SHAPE3D
 Na "PS-85.wrl"
@@ -623,7 +629,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE PBPS-85
 $MODULE PBPS-85-EDLC
-Po 0 0 0 15 54BB3B7F 00000000 ~~
+Po 0 0 0 15 54C99EC6 00000000 ~~
 Li PBPS-85-EDLC
 Sc 0
 AR 
@@ -668,6 +674,7 @@ Dr 2 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po 0 -16.5
+.LocalClearance 1
 $EndPAD
 $PAD
 Sh "" C 2 2 0 0 0
@@ -675,6 +682,7 @@ Dr 2 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po 0 16.5
+.LocalClearance 1
 $EndPAD
 $PAD
 Sh "" C 2 2 0 0 0
@@ -682,6 +690,7 @@ Dr 2 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po -25.4 -16.5
+.LocalClearance 1
 $EndPAD
 $PAD
 Sh "" C 2 2 0 0 0
@@ -689,6 +698,7 @@ Dr 2 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po -25.4 16.5
+.LocalClearance 1
 $EndPAD
 $PAD
 Sh "" C 2 2 0 0 0
@@ -696,6 +706,7 @@ Dr 2 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po 25.4 -16.5
+.LocalClearance 1
 $EndPAD
 $PAD
 Sh "" C 2 2 0 0 0
@@ -703,6 +714,7 @@ Dr 2 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po 25.4 16.5
+.LocalClearance 1
 $EndPAD
 $SHAPE3D
 Na "PS-85.wrl"
