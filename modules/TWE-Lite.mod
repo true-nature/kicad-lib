@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  2015/01/31 14:12:23
+PCBNEW-LibModule-V1  2015/02/06 14:38:11
 # encoding utf-8
 Units mm
 $INDEX
@@ -88,7 +88,7 @@ Ne 1 "/CFG"
 Po 7.62 0
 $EndPAD
 $SHAPE3D
-Na "221R-07G-LP.wrl"
+Na "../packages3d/221R-07G-LP.wrl"
 Sc 0.393701 0.393701 0.393701
 Of 0 0 0
 Ro 0 0 0
@@ -130,13 +130,13 @@ Ne 2 "GND"
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "BK-888.wrl"
+Na "../packages3d/BK-888.wrl"
 Sc 0.393701 0.393701 0.393701
 Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "CR2032.wrl"
+Na "../packages3d/CR2032.wrl"
 Sc 0.393701 0.393701 0.393701
 Of 0 0 0.007874015748
 Ro 0 0 0
@@ -192,19 +192,19 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "BK-888.wrl"
+Na "../packages3d/BK-888.wrl"
 Sc 0.393701 0.393701 0.393701
 Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "BK-2032M.wrl"
+Na "../packages3d/BK-2032M.wrl"
 Sc 0.3937007874 0.3937007874 0.3937007874
 Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "CR2032.wrl"
+Na "../packages3d/CR2032.wrl"
 Sc 0.393701 0.393701 0.393701
 Of 0 0 0.007874015748
 Ro 0 0 0
@@ -236,7 +236,7 @@ Ne 0 ""
 Po -0.75 5.05
 $EndPAD
 $SHAPE3D
-Na "DCK-3R3E224-E.wrl"
+Na "../packages3d/DCK-3R3E224-E.wrl"
 Sc 0.3937007874 0.3937007874 0.3937007874
 Of 0 0 0
 Ro 0 0 0
@@ -294,7 +294,7 @@ Ne 0 ""
 Po 0.85 -0.65
 $EndPAD
 $SHAPE3D
-Na "HN2S01FU.wrl"
+Na "../packages3d/HN2S01FU.wrl"
 Sc 0.3937007874 0.3937007874 0.3937007874
 Of 0 0 0
 Ro 0 0 0
@@ -340,7 +340,7 @@ Ne 1 "/DI1"
 Po -6.35 5.08
 $EndPAD
 $SHAPE3D
-Na "JF-15CKCBNP2.wrl"
+Na "../packages3d/JF-15CKCBNP2.wrl"
 Sc 0.3937007874 0.3937007874 0.3937007874
 Of 0 0 0
 Ro 0 0 0
@@ -517,7 +517,7 @@ Po 12.45 -28
 .LocalClearance 1
 $EndPAD
 $SHAPE3D
-Na "CSPB-75.wrl"
+Na "../packages3d/CSPB-75.wrl"
 Sc 0.393701 0.393701 0.393701
 Of 0 0 0
 Ro 0 0 0
@@ -618,7 +618,7 @@ Po 25.4 16.5
 .LocalClearance 1
 $EndPAD
 $SHAPE3D
-Na "PS-85.wrl"
+Na "../packages3d/PS-85.wrl"
 Sc 0.393701 0.393701 0.393701
 Of 0 0 -0.03937
 Ro 0 0 0
@@ -713,7 +713,7 @@ Po 25.4 16.5
 .LocalClearance 1
 $EndPAD
 $SHAPE3D
-Na "PS-85.wrl"
+Na "../packages3d/PS-85.wrl"
 Sc 0.393701 0.393701 0.393701
 Of 0 0 -0.03937
 Ro 0 0 0
@@ -755,7 +755,7 @@ Ne 0 ""
 Po 2.54 1.27
 $EndPAD
 $SHAPE3D
-Na "discret/adjustable_rx2.wrl"
+Na "../packages3d/discret/adjustable_rx2.wrl"
 Sc 1 1 1
 Of 0 0 0
 Ro 0 0 0
@@ -828,7 +828,7 @@ Ne 2 "GND"
 Po 0 -2.54
 $EndPAD
 $SHAPE3D
-Na "SE-5R5-D105VY.wrl"
+Na "../packages3d/SE-5R5-D105VY.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 0
@@ -860,7 +860,7 @@ Ne 2 "GND"
 Po 13.5 0
 $EndPAD
 $SHAPE3D
-Na "SE-5R5-D105VYV.wrl"
+Na "../packages3d/SE-5R5-D105VYV.wrl"
 Sc 0.393701 0.393701 0.393701
 Of 0 0 -0.03937007874
 Ro 0 0 0
@@ -900,13 +900,13 @@ Ne 0 ""
 Po 14.7 0
 $EndPAD
 $SHAPE3D
-Na "SMTU2032.wrl"
+Na "../packages3d/SMTU2032.wrl"
 Sc 0.393701 0.393701 0.393701
 Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "CR2032.wrl"
+Na "../packages3d/CR2032.wrl"
 Sc 0.393701 0.393701 0.393701
 Of 0 0 0.06102362205
 Ro 0 0 0
@@ -1205,7 +1205,7 @@ Ne 0 ""
 Po -4.445 -7.1
 $EndPAD
 $SHAPE3D
-Na "TWE-001L-SMD.wrl"
+Na "../packages3d/TWE-001L-SMD.wrl"
 Sc 0.393701 0.393701 0.393701
 Of 0 0 0
 Ro 0 0 0
@@ -1453,7 +1453,7 @@ Ne 0 ""
 Po -4.445 -7.1
 $EndPAD
 $SHAPE3D
-Na "TWE-001L-SMD.wrl"
+Na "../packages3d/TWE-001L-SMD.wrl"
 Sc 0.393701 0.393701 0.393701
 Of 0 0 0
 Ro 0 0 0
