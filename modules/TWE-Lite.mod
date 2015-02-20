@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  2015/02/20 14:58:25
+PCBNEW-LibModule-V1  2015/02/20 16:50:04
 # encoding utf-8
 Units mm
 $INDEX
@@ -152,6 +152,12 @@ $SHAPE3D
 Na "../../../kicad-lib/packages3d/CR1220.wrl"
 Sc 0.393701 0.393701 0.393701
 Of 0 0 0.007874
+Ro 0 0 0
+$EndSHAPE3D
+$SHAPE3D
+Na "../../../kicad-lib/packages3d/BK-885.wrl"
+Sc 0.393701 0.393701 0.393701
+Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE BK-885
