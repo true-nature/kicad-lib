@@ -1,4 +1,4 @@
-(module TWE-Lite:RV-TSR-3386T (layer F.Cu) (tedit 54C387C3)
+(module RV-TSR-3386T (layer F.Cu) (tedit 54C387C3)
   (descr "Square Trimming Potentiometer")
   (tags TSR-3386T)
   (fp_text reference RV? (at -2.65 -0.05 90) (layer F.SilkS)

@@ -1,5 +1,5 @@
-(module BK-885 (layer F.Cu) (tedit 54E99F27)
-  (fp_text reference BT1 (at 0 -3.6) (layer F.SilkS)
+(module BK-885 (layer F.Cu) (tedit 550D67B2)
+  (fp_text reference BATTERY (at 0 -3.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value CR1220 (at 0 -7) (layer F.SilkS)

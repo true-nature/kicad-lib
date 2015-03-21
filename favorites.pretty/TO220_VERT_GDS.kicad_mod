@@ -1,4 +1,4 @@
-(module TWE-Lite:TO220_VERT_GDS (layer F.Cu) (tedit 54C1E814)
+(module TO220_VERT_GDS (layer F.Cu) (tedit 54C1E814)
   (descr "Regulateur TO220 serie LM78xx")
   (tags "TR TO220")
   (fp_text reference TO220_V_GDS (at -3.175 0 90) (layer F.SilkS)
