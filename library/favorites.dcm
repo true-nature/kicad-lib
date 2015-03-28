@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002DW
+D 2N7002DW, 60V Vds, 0.115A Id, N-Channel MOSFET, SOT-363
+K Dual N-Channel MOSFET
+F https://www.fairchildsemi.com/datasheets/2N/2N7002DW.pdf
+$ENDCMP
+#
+$CMP CONN_2
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_4
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+#End Doc Library
