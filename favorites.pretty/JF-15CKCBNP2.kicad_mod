@@ -14,7 +14,7 @@
   (pad 2 thru_hole oval (at 6.35 5.08) (size 3.048 1.7272) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole oval (at -6.35 -5.08) (size 3.048 1.7272) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at -6.35 5.08) (size 3.048 1.7272) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (model ../../../kicad-lib/packages3d/JF-15CKCBNP2.wrl
+  (model favorites/JF-15CKCBNP2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937007874 0.3937007874 0.3937007874))
     (rotate (xyz 0 0 0))

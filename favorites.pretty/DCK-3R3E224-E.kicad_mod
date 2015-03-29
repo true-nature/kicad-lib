@@ -14,7 +14,7 @@
   (fp_circle (center 0 0) (end 3.4 0) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at 0.75 5.05) (size 1 2.3) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -0.75 5.05) (size 1 2.3) (layers F.Cu F.Paste F.Mask))
-  (model ../../../kicad-lib/packages3d/DCK-3R3E224-E.wrl
+  (model favorites/DCK-3R3E224-E.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937007874 0.3937007874 0.3937007874))
     (rotate (xyz 0 0 0))
