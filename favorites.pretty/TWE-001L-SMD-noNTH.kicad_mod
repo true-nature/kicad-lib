@@ -1,4 +1,4 @@
-(module TWE-001L-SMD-noNTH (layer F.Cu) (tedit 550D6C6F)
+(module TWE-001L-SMD-noNTH (layer F.Cu) (tedit 55C6F6A4)
   (fp_text reference U? (at 0 -8.255) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -60,9 +60,9 @@
   (pad 27 smd oval (at 1.905 -6.735) (size 0.9 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 28 smd oval (at 0.635 -6.735) (size 0.9 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 29 smd oval (at -0.635 -6.735) (size 0.9 1.4) (layers F.Cu F.Paste F.Mask))
-  (pad 30 smd rect (at -1.905 -7.1) (size 0.9 1) (layers F.Cu F.Paste F.Mask))
-  (pad 31 smd rect (at -3.175 -7.1) (size 0.9 1) (layers F.Cu F.Paste F.Mask))
-  (pad 32 smd rect (at -4.445 -7.1) (size 0.9 1) (layers F.Cu F.Paste F.Mask))
+  (pad 30 smd rect (at -1.905 -7.1) (size 0.9 0.6) (layers F.Cu F.Paste F.Mask))
+  (pad 31 smd rect (at -3.175 -7.1) (size 0.9 0.6) (layers F.Cu F.Paste F.Mask))
+  (pad 32 smd rect (at -4.445 -7.1) (size 0.9 0.6) (layers F.Cu F.Paste F.Mask))
   (model favorites/TWE-001L-SMD.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
