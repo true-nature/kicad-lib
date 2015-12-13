@@ -1,8 +1,8 @@
-(module B3FS-4002P (layer F.Cu) (tedit 55C711A1)
-  (fp_text reference SW? (at 0 -1.3335) (layer F.SilkS)
+(module B3FS-4002P (layer F.Cu) (tedit 566D04F3)
+  (fp_text reference SW? (at 0 -1.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value B3FS-4002P (at 0 0) (layer F.SilkS) hide
+  (fp_text value B3FS-4002P (at 0 1.8) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -6.096 6.096) (end 6.096 6.096) (layer Dwgs.User) (width 0.15))
@@ -13,6 +13,7 @@
   (pad 1 smd rect (at -7.15 2.5) (size 2.3 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 7.15 -2.5) (size 2.3 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -7.15 -2.5) (size 2.3 1.2) (layers F.Cu F.Paste F.Mask))
+  (pad "" np_thru_hole circle (at 0 0) (size 2 2) (drill 2) (layers *.Cu *.Mask F.SilkS))
   (model favorites/B3FS-4002P.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
