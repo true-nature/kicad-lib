@@ -17,17 +17,17 @@
   (pad 2 thru_hole circle (at 0 -9.7) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 0 6.6) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 smd rect (at 0 0) (size 4 4) (layers F.Cu F.Paste F.Mask))
-  (model favorites/BK-888.wrl
+  (model favorites.3dshapes/BK-888.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))
   )
-  (model favorites/BK-2032M.wrl
+  (model favorites.3dshapes/BK-2032M.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937007874 0.3937007874 0.3937007874))
     (rotate (xyz 0 0 0))
   )
-  (model favorites/CR2032.wrl
+  (model favorites.3dshapes/CR2032.wrl
     (at (xyz 0 0 0.007874015748))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

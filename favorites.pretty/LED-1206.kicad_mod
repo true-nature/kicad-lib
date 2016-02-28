@@ -47,7 +47,7 @@
   (fp_arc (start 0 0) (end 0.54864 -0.49784) (angle 84.5) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -1.41986 0) (size 1.59766 1.80086) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.41986 0) (size 1.59766 1.80086) (layers F.Cu F.Paste F.Mask))
-  (model favorites/SML-012WT.wrl
+  (model favorites.3dshapes/SML-012WT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937007874015748 0.3937007874015748 0.3937007874015748))
     (rotate (xyz 0 0 0))

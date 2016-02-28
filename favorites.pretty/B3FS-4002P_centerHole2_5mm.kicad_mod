@@ -14,7 +14,7 @@
   (pad 2 smd rect (at 7.15 -2.5) (size 2.3 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -7.15 -2.5) (size 2.3 1.2) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at 0 0) (size 2.5 2.5) (drill 2.5) (layers *.Cu *.Mask F.SilkS))
-  (model favorites/B3FS-4002P.wrl
+  (model favorites.3dshapes/B3FS-4002P.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))
