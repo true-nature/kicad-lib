@@ -1,4 +1,4 @@
-(module JB-15HFBP2 (layer F.Cu) (tedit 54E98BF6)
+(module JB-15HFBP2 (layer F.Cu) (tedit 5725C9EC)
   (fp_text reference SW1 (at 0 6.35) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -26,6 +26,7 @@
   (pad 1 thru_hole circle (at 2.54 5.08) (size 1.718 1.718) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at -2.54 -5.08) (size 1.718 1.718) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at -2.54 5.08) (size 1.718 1.718) (drill 1) (layers *.Cu *.Mask F.SilkS))
+  (pad "" np_thru_hole circle (at 0 0) (size 2.5 2.5) (drill 2.5) (layers *.Cu *.Mask))
   (model favorites.3dshapes/JB-15HFBP2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))

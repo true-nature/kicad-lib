@@ -1,4 +1,4 @@
-(module JF-15CKCBNP2 placed (layer F.Cu) (tedit 54BDEB25)
+(module JF-15CKCBNP2 placed (layer F.Cu) (tedit 5725CA36)
   (fp_text reference SW? (at 0.05 -10.2) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.2032)))
   )
@@ -14,6 +14,7 @@
   (pad 2 thru_hole oval (at 6.35 5.08) (size 3.048 1.7272) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole oval (at -6.35 -5.08) (size 3.048 1.7272) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at -6.35 5.08) (size 3.048 1.7272) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
+  (pad "" np_thru_hole circle (at 0 0) (size 2.5 2.5) (drill 2.5) (layers *.Cu *.Mask))
   (model favorites.3dshapes/JF-15CKCBNP2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937007874 0.3937007874 0.3937007874))

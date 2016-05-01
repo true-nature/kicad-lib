@@ -21,4 +21,8 @@ D Dual Single Pole Single Throw (SPST) Switch
 K switch
 $ENDCMP
 #
+$CMP TWE_LITE_SMD
+F http://mono-wireless.com/jp/products/TWE-Lite/MNO-PDS-TWE001L-JP-2.10-2.pdf
+$ENDCMP
+#
 #End Doc Library

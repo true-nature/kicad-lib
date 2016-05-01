@@ -1,4 +1,5 @@
 (module TWE-001L-SMD-noNTH (layer F.Cu) (tedit 55C6F6A4)
+  (descr http://mono-wireless.com/jp/products/TWE-Lite/MNO-PDS-TWE001L-JP-2.10-2.pdf)
   (fp_text reference U? (at 0 -8.255) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
