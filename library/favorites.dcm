@@ -6,6 +6,16 @@ K Dual N-Channel MOSFET
 F https://www.fairchildsemi.com/datasheets/2N/2N7002DW.pdf
 $ENDCMP
 #
+$CMP BD45231G
+D CMOS reset IC with fixed delay timer
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/ic/power/voltage_detector/bd45xxg-j.pdf
+$ENDCMP
+#
+$CMP BU4823G
+D standard voltage detector
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/ic/power/voltage_detector/bu48xxg-j.pdf
+$ENDCMP
+#
 $CMP CONN_2
 D Symbole general de connecteur
 K CONN
@@ -19,6 +29,23 @@ $ENDCMP
 $CMP DIP_SW
 D Dual Single Pole Single Throw (SPST) Switch
 K switch
+$ENDCMP
+#
+$CMP HN2S01FU
+D Schottky Barrier Diode Array
+F http://toshiba.semicon-storage.com/info/docget.jsp?did=3705&prodName=HN2S01FU
+$ENDCMP
+#
+$CMP HT82V739
+F http://akizukidenshi.com/download/HT82V739.pdf
+$ENDCMP
+#
+$CMP TCM809RVNB
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21661E.pdf
+$ENDCMP
+#
+$CMP TWE_LITE_DIP
+F http://mono-wireless.com/jp/products/TWE-Lite-DIP/index.html
 $ENDCMP
 #
 $CMP TWE_LITE_SMD
