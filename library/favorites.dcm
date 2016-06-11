@@ -6,6 +6,12 @@ K Dual N-Channel MOSFET
 F https://www.fairchildsemi.com/datasheets/2N/2N7002DW.pdf
 $ENDCMP
 #
+$CMP AE-SPU0414
+D MEMS MICROPHONE MODULE
+K SPU0414HR5H-SB
+F http://akizukidenshi.com/download/ds/akizuki/AE-SPU0414.pdf
+$ENDCMP
+#
 $CMP BD45231G
 D CMOS reset IC with fixed delay timer
 F http://rohmfs.rohm.com/jp/products/databook/datasheet/ic/power/voltage_detector/bd45xxg-j.pdf
