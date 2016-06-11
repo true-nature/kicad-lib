@@ -1,4 +1,4 @@
-(module B02B-XASK-1 (layer F.Cu) (tedit 572B30AA)
+(module B02B-XASK-1 (layer F.Cu) (tedit 5754314A)
   (fp_text reference REF** (at 0 -3.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -12,8 +12,8 @@
   (fp_line (start -3.2 5) (end -3.2 -2.5) (layer F.SilkS) (width 0.15))
   (fp_line (start 3.2 5) (end -3.2 5) (layer F.SilkS) (width 0.15))
   (fp_line (start 3.2 -2.5) (end 3.2 5) (layer F.SilkS) (width 0.15))
-  (pad 1 thru_hole rect (at 0 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole circle (at 0 2.54) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole rect (at 0 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole circle (at 0 2.54) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (model favorites.3dshapes/B02B-XASK-1.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937007874015748 0.3937007874015748 0.3937007874015748))
